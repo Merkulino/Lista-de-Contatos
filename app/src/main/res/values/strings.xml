@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lista de Contatos</string>
+    <string name="userName">Usuario</string>
+    <string name="contactList">Lista de Contatos</string>
+    <string name="profileimgView">Profile Image View</string>
+    <string name="logintxt">Login</string>
+    <string name="loginBt">Login</string>
+    <string name="notAccountTxt">Ainda nao tem uma conta? Inscreva-se!</string>
+    <string name="passwordTxt">Senha</string>
+    <string name="usernameTxt">Nome de Usuario</string>
+    <string name="singInTxt">Cadastro</string>
+    <string name="emailTxt">Email</string>
+    <string name="userHintTxt">Usuario</string>
+    <string name="passwordHintTxtBox">Senha</string>
+    <string name="emailHintTxtBox">Email</string>
+    <string name="phoneNumberTxt">Celular</string>
+    <string name="phoneHintTxtBox">Celular</string>
+    <string name="nameTxt">Nome Completo</string>
+    <string name="nameHintTxtBox">Nome</string>
+    <string name="siteTxt">Site Pessoal</string>
+    <string name="siteHintTxtBox">"Site "</string>
+    <string name="signButtonTxt">Cadastrar</string>
+    <string name="descImgContactMain">profile photo of contact</string>
+</resources>
